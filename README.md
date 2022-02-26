@@ -15,3 +15,7 @@ dontdrop :
 <br>dontdrop = "stunstick"
 <br>dontdrop = "unarrest_stick"
 <br>dontdrop = "pocket"
+
+<a href="https://www.maxime-guinard.fr/" target="_blank" rel="noreferrer"> <img src="https://steamuserimages-a.akamaihd.net/ugc/851598582917267924/76C603230DD9731DDFDAB1931FFF8400CE7C8CD8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Un site web Garry's mod"/> </a>
+
+<a href="https://www.maxime-guinard.fr/" target="_blank" rel="noreferrer"> <img src="https://steamuserimages-a.akamaihd.net/ugc/851598582917267913/6037509A17FAAADFABD6BFBD6016D569F926FAD1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Un site web Garry's mod"/> </a>
